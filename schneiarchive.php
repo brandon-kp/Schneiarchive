@@ -14,7 +14,7 @@ class Widget_Schneiarchive extends Widgets
         'en' => 'Archive',
     );
     public $description = array(
-        'en' => 'Show your blog archives by year and month, as seen on schneier.org.'
+        'en' => 'Show your blog archives by year and month, as seen on schneier.com.'
     );
     public $author      = 'Brandon Probst';
     public $website     = 'http://brandonkprobst.com';
