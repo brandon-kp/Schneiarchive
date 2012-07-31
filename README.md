@@ -1,6 +1,6 @@
 ## What is this?
 I really liked the style of archive seen on Bruce Schenier's 
-[schneier.com](http://schenier.com), so I set out to duplicate it. I
+[schneier.com](http://schneier.com), so I set out to duplicate it. I
 pretty much succeeded. Though, it really only looks good if you have
 a few years worth of content.
 
